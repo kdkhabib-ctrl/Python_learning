@@ -1,11 +1,13 @@
-# Python_learning
-i'm learning python and Github
-##About
--learn python fundalentals
--practice OOP
--Learn APIs
--Learn Web Scraping
--Learn Git and Github
--Last investissement on my self last chance to be somone
-##Project
--my project will be published here
+Python Learning
+About
+I'm learning Python and GitHub.
+Goals
+Learn Python fundamentals.
+Practice Object-Oriented Programming (OOP).
+Learn APIs.
+Learn Web Scraping.
+Learn Git and GitHub.
+Personal Motivation 
+last chance to be somone 
+Projects
+My future Python projects will be published here.
