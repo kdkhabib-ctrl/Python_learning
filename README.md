@@ -3,7 +3,9 @@
 ## About
 
 - I'm learning Python and GitHub.
-Goals
+
+## Goals
+
 - Learn Python fundamentals.
 - Practice Object-Oriented Programming (OOP).
 - Learn APIs.
